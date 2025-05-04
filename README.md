@@ -40,5 +40,5 @@ Template developed by **Jude Nwachukwu Onyejekwe** from [DumbData](https://dumbd
 
 ## 📄 License
 
-Apache License 2.0 — use freely for personal and commercial projects.
+Apache License 2.0. Feel free to share your feedback.
 
