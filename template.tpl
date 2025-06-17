@@ -12,6 +12,9 @@ ___INFO___
   "type": "MACRO",
   "id": "cvt_temp_public_id",
   "version": 1,
+  "categories": [
+    "SESSION_RECORDING"
+  ],
   "securityGroups": [],
   "displayName": "PostHog Utility (Including Session Replay URL)",
   "description": "Use this variable for PostHog utilities to retrieve the session replay URL and session ID of a user\u0027s session.",
