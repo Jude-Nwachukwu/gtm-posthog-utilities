@@ -2,5 +2,10 @@
 homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-posthog-utilities
 versions:
+# LATEST VERSION
+  - sha: dbf8e4a9846f7b089cfc82f98b61b777a8e0569b
+    changeNotes: latest update.
+
+#INITIAL VERSION
   - sha: 27158563992ec86f674c97a39eed2994c3231fac
     changeNotes: Initial release.
